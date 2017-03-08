@@ -14,15 +14,15 @@ questions:[
       },
      {title:"Один из создателей JavaScript это:",
       chekboxName:["one","two","three"],
-      id:["1","2","3"],
+      id:["4","5","6"],
       answers:["Бьёрн Страуструп", "Джеймс Гослинг", "Брендан Эйх"],
-      correct:3
+      correct:6
       },
       {title:"Что из ниже перечисленного не написано с использованием JavaScript:",
       chekboxName:["one","two","three"],
-      id:["1","2","3"],
+      id:["7","8","9"],
       answers:["jQuery", "React", "Laravel"],
-      correct:3
+      correct:9
       }]
       };
 
